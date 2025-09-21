@@ -1,0 +1,83 @@
+*{margin: 0px;
+    padding: 0;
+}
+
+
+
+ header img {
+    display: block;
+    margin: auto;
+    display: block;
+       }
+   
+
+    nav button{
+    background-color: violet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+ nav button:hover{
+    background-color: pink;
+ }
+
+
+nav button a{
+    text-decoration: none;
+}
+
+body{
+    background-color: lightcoral
+}
+
+body nav ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: lightgray;
+    padding: 20px 0;
+     }
+
+   div img{
+    width: 85vw;
+    margin: 20px 0;
+    box-shadow: 10px 10px black;
+
+       }
+
+
+body .presentacion{
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 0 30px;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 20px 20px;
+}
+
+body section{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body section p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    text-align: center;
+    padding: 20px 0;
+    background-color: whitesmoke;
+}
+
+body section ol li{
+    text-align: center;
+}
+body article{
+    text-align: center;
+}
+
+body h6{
+    text-align: center;
+    font-size:large;
+        margin: 10px 0;
+}

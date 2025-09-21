@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&family=Cookie&family=Funnel+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.comic-relief-regular {
+  font-family: "Comic Relief", system-ui;
+  font-weight: 600;
+  font-style: normal;
+}
+
+body{
+    background-color: lightcoral;
+}
+ul li {
+text-align: center;
+font-size: larger;
+list-style: none;
+}
