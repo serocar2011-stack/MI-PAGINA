@@ -38,15 +38,24 @@ body nav ul {
     list-style: none;
     display: flex;
     justify-content: space-evenly;
-    background-color: lightgray;
-    padding: 20px 0;
+    background-color:whitesmoke;
+      filter: drop-shadow(2px 4px 6px black);
+    padding: 15px 0;
+    margin: 10px
      }
 
-   div img{
+   .imagen-portada{
     width: 85vw;
-    margin: 20px 0;
-    box-shadow: 10px 10px black;
+    margin-top: 30px;
+    margin-bottom: 20px;
+   border: 2px solid black;
+    filter: drop-shadow(2px 4px 6px black);
 
+       }
+
+       .imagen-portada:hover{
+        scale: 1.1;
+        transition-duration: 1.5s;
        }
 
 
@@ -67,6 +76,8 @@ body section p{
     text-align: center;
     padding: 20px 0;
     background-color: whitesmoke;
+    margin: 10px;
+     filter: drop-shadow(2px 4px 6px black);
 }
 
 body section ol li{
