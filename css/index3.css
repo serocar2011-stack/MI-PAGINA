@@ -18,7 +18,7 @@ article{
     flex-direction: row;
 }
 .card{
-  width: 20vw;
+  width: 15vw;
   border: 2px black solid;
   background-color:rgb(252, 186, 252);
   border-radius: 10px;

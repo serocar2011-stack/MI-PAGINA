@@ -67,6 +67,12 @@ body .presentacion{
     margin: 20px 20px;
 }
 
+.texto-presentacion{
+    margin-top: 5px;
+    margin-bottom: 30 px;
+    
+}
+
 body section{
     font-family: Arial, Helvetica, sans-serif;
 }
